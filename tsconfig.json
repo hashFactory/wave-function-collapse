@@ -4,7 +4,8 @@
     "moduleResolution": "Node",
     "outFile": "public/dist.js",
     "target": "ESNext",
-    "strict": true
+    "strict": true,
+    "ignoreDeprecations": "6.0"
   },
   "files": [
     "src/main.ts"
